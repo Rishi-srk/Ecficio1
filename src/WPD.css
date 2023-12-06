@@ -1,0 +1,163 @@
+.main3{
+    background-color: #52B4EB;
+    height: auto ;
+    padding-bottom: 0;
+}
+.gdsc{
+    font-size: 4.2vw;
+    background: linear-gradient(to right, #2DCF34,#E9FB21,#F18725);
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    margin-left: 11vw;
+    margin-right: 11vw;
+    border-radius: 5vw;
+    font-family: serif;
+}
+.ellipse2{
+    position: relative;
+    right: 20vw;
+}
+.panelcontent{
+    position: absolute;
+    top:115vw;
+    font-size: 3vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    font-family: serif;
+    text-align: left;
+}
+.profilecard{
+
+    background-color: rgb(65, 51, 227,0.5);
+    position: absolute;
+    top:145vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 3vw;
+    font-size: 2vw;
+    
+}
+
+.profilecard2{
+
+    background-color: rgb(65, 51, 227,0.5);
+    position: relative;
+    top:-49vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 3vw;
+    font-size: 2vw;
+    
+}
+.profilecard3{
+
+    background-color: rgb(65, 51, 227,0.5);
+    position: relative;
+    top:-43vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 3vw;
+    font-size: 2vw;
+    
+}
+.profilecard4{
+
+    background-color: rgb(65, 51, 227,0.5);
+    position: absolute;
+    top:248vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 3vw;
+    font-size: 2vw;
+    
+}
+
+
+.profilecardcontent{
+    margin-top: 0.5vw;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
+    color: aliceblue;
+    text-align: center;
+
+}
+.profileimage{
+    border-radius: 50%;
+    height: 12vw;
+    margin-bottom: 1vw;
+    
+}
+
+.marketing{
+    background-color: #3FD294;
+    position: absolute;
+    top: 300vw;
+    left: 20vw;
+    font-size: 3vw;
+    font-family: serif;
+    padding-left: 9vw;
+    padding-right: 9vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    margin-left: 6vw;
+    margin-right: 10vw;
+    border-radius: 10vw;
+}
+.marketingcontent{
+    position: absolute;
+    top:315vw;
+    font-size: 3vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    font-family: serif;
+    text-align: left;
+}
+.ellipse3{
+    position: relative;
+    right:-16.5vw;
+    overflow: hidden;
+
+
+}
+
+.xyz{
+position: absolute;
+top:345vw;    
+background-color: rgb(42, 209, 179,0.5);
+margin-left: 30vw;
+padding-top: 10vw;
+padding-bottom: 10vw;
+padding-left: 10vw;
+padding-right: 10vw;
+border-radius: 5vw;
+
+}
+.linecard2{
+    position: relative;
+    top: -70vw;
+}
+.linecard1{
+    position: relative;
+    top: -80vw;
+}
+.gdscimg{
+    height: 40vw;
+    margin-top: 5vw;
+
+}
